@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Usage"
+date:   2025-01-03 23:27:43 +0800
+categories: jekyll update
+---
+
+The interface is very intuitive, and most functions will be easy to use at a glance. I will only introduce some of the features.
+
+### 1. Multiple selection
+The three dots in the upper right corner can be used to enable "multiple selection". After selecting multiple files, click "command clover" to perform multiple file operations;
+
+### 2. Timer
+The three dots in the upper right corner can be used to enable the timer. The timer can be directly input for 80 minutes, which will be automatically converted to 1 hour and 20 minutes. If the input is left blank, it will be 0;
+
+### 3. Check if the file exists
+
+If you have moved the music files in your phone or deleted them, you can first select "Update Folder" in the three dots in the upper right corner of the Folder page. At this time, the App will re-read the music files from the media library to the Folder page, and then you can select "Check if the file exists" in the upper right corner of the Playing or Playlist page. This is actually comparing the playlist with the Folder page data;

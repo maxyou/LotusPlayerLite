@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Privacy Policy"
+date:   2025-01-03 23:26:43 +0800
+categories: jekyll update
+---
+
+## Privacy Policy
+
+Thank you for using our app! We value your privacy. Below is our privacy policy, which outlines how we handle your information.
+
+### Information Collection
+
+1. **Data Collection**: Our app does not collect any personal information.
+2. **Permissions**: We only request permission to read the media library so that you can access and play your music.
+
+### Information Use
+
+- We do not connect to the internet, so we do not collect, store, or share any user data.
+- This app contains no advertisements.
+
+### Third-Party Services
+
+- This app does not use any third-party services, so there is no external data sharing.
+
+### Contact Us
+
+If you have any questions or suggestions regarding this privacy policy, please feel free to contact us.
