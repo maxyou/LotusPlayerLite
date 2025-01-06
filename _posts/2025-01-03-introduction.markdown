@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Music Player Introduction"
+title:  "Introduction"
 date:   2025-01-03 23:29:43 +0800
 categories: jekyll update
 ---

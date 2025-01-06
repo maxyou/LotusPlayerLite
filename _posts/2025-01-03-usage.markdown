@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Usage"
+title:  "Usage and Issue"
 date:   2025-01-03 23:27:43 +0800
 categories: jekyll update
 ---
@@ -16,3 +16,13 @@ The three dots in the upper right corner can be used to enable the timer. The ti
 ### 3. Check if the file exists
 
 If you have moved the music files in your phone or deleted them, you can first select "Update Folder" in the three dots in the upper right corner of the Folder page. At this time, the App will re-read the music files from the media library to the Folder page, and then you can select "Check if the file exists" in the upper right corner of the Playing or Playlist page. This is actually comparing the playlist with the Folder page data;
+
+## Possible Issue
+
+You may experience an issue where the music playback stops before the timer expires after you lock your device screen. This is likely due to the phone’s power management system, which may terminate apps that it deems as energy-consuming and unnecessary.
+
+### Solution
+
+To resolve this, go to your phone’s Settings, then find and select ‘App Management’. Locate our app from the list and check the power management settings for it. Adjust the settings to a more lenient mode to ensure that the phone does not prematurely terminate our app.
+
+If the problem persists despite these adjustments, please feel free to provide feedback. Thank you for your support!
