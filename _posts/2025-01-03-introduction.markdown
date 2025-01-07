@@ -7,7 +7,7 @@ categories: jekyll update
 
 ### Introduction to the Music Player App
 
-This is a music player app designed to gradually decrease the volume over time, perfect for friends who have trouble falling asleep.
+This is a music player application. One of its special features is that it can gradually reduce the volume, which is very suitable for friends who like to fall asleep while listening to music.
 
 #### 1. Introduction
 
@@ -31,8 +31,8 @@ Currently, the app is available only for Android and has been published on Googl
 
 #### 6. Feedback and donations
 
-You are welcome to provide feedback or report bugs. If you are willing to support me, it would be even better if you buy me a cup of coffee on the donation page!
+You are welcome to provide feedback or report bugs: <hyyou2010@gmail.com>. If you are willing to support me, it would be even better if you buy me a cup of coffee on the donation page!
 
 #### 7. Music recommendation
 
-The soothing music I like includes Buddhist Zen music, ancient styles of music from China, India, and Japan, and Nordic soul music, such as Secret Garden 1~3.
+The soothing music I like includes Buddhist Zen music, ancient styles of music from China, India, and Japan, and New Age Music, such as Secret Garden 1~3.
