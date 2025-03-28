@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   A music player that can decrease the volume. Music files are displayed in folder structure. Super powerful playlist.
 baseurl: "/LotusPlayerLite" # the subpath of your site, e.g. /blog
 url: "https://maxyou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maxyou
 github_username:  maxyou
 
 # Build settings
