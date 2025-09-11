@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "隐私政策 中文版"
+title:  "Privacy Policy 中文版"
 date:   2025-09-10 10:27:00 +0800
 categories: jekyll update
 ---
