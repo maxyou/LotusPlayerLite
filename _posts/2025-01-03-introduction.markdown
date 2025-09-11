@@ -31,7 +31,7 @@ This app is available for both Android and iOS platforms.
 
 #### 6. Feedback and Donations
 
-You are welcome to provide feedback or report bugs: <hyyou2010@gmail.com>. If you are willing to support me, it would be even better if you could buy me a cup of coffee on the donation page!
+You are welcome to provide feedback or report bugs: <hello@qmcntech.com>. If you are willing to support me, it would be even better if you could buy me a cup of coffee on the donation page!
 
 #### 7. Music Recommendation
 
