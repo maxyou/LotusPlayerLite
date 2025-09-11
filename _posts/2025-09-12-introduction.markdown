@@ -1,38 +1,34 @@
 ---
 layout: post
 title:  "Introduction"
-date:   2025-01-03 23:29:43 +0800
+date:   2025-09-12 23:30:00 +0800
 categories: jekyll update
 ---
 
-### Introduction to the Music Player App
+### Introduction
 
-This is a music player application. One of its special features is that it can gradually reduce the volume, which is perfect for those who like to fall asleep while listening to music.
+This is a music player app with three key features: gradual volume reduction, tree-structured directories, and playlist copying.
 
-#### 1. Introduction
+#### 1. Timer and Gradual Volume Reduction
 
-I sometimes enjoy listening to music as I drift off to sleep because it helps me relax. One of my key requirements is that the volume should decrease as I get closer to sleep. While there are music players available that allow you to set a timer to stop playback after a certain time, none can gradually lower the volume. Since I have the skills to create an app, I decided to build one myself. A key feature of this app is the ability to set a timer that gradually decreases the volume until it reaches zero, at which point playback stops.
+Sometimes I enjoy listening to music as I fall asleep because music helps me relax. I've found that the volume should gradually decrease over time, as loud music can be irritating and uncomfortable when I'm about to fall asleep. I couldn't find any music player in the market that can gradually reduce volume, so I developed one myself. This app allows the volume to decrease in sync with the remaining timer duration until it completely stops.
 
-#### 2. Music File Organization
+#### 2. Music File Directory Tree
 
-I organize my music on my computer in a tree structure. For example, I categorize music into "Pop" and "Instrumental," with "Pop" further divided into "Chinese Music" and "English Music." Inside the "Chinese Music" folder, I have categories like "Old Songs," "Movie Soundtracks," and "Folk Songs." I recommend copying this hierarchical structure directly to your Android phone, as the app I designed allows you to browse through this structure in a single window.
+I organize my music on my computer using a directory tree structure. For example, I categorize music into "Pop Music" and "Instrumental/Pure Music," with "Pop Music" further divided into "Chinese Music" and "International Music." Within the "Chinese Music" folder, there are multiple subdirectories like "Classic Songs," "Movie Songs," and "Guitar & Vocals." I think this is a clear classification system, so our app stores music following this directory tree structure.
 
-#### 3. Playlist
+#### 3. Playlist Copying
 
-The app features a well-developed playlist function that supports multi-select operations, allowing you to copy between playlists. You can also long-press to drag items within a playlist. However, it does not have a fancy interface.
+If you want to immerse yourself in music all night long, or you need to arrange background music for an afternoon at the office, or you're a DJ for a dance event, then you need to easily organize multiple playlists. This app allows "copy + paste" operations from the music file directory tree to playlists, as well as "copy + paste" operations between playlists, which is very convenient.
 
-#### 4. Privacy and permissions
+#### 4. Privacy and Permissions
 
-This app only requires permission to read the media library. It does not connect to the internet, does not collect personal information, and contains no advertisements.
+This app does not collect personal information and contains no advertisements. Except for the in-app purchase support library provided by the mobile app store, the app itself does not connect to the internet.
 
 #### 5. Platform Support
 
-This app is available for both Android and iOS platforms.
+This app supports both Android and iOS platforms.
 
-#### 6. Feedback and Donations
+#### 6. Feedback
 
-You are welcome to provide feedback or report bugs: <hello@qmcntech.com>. If you are willing to support me, it would be even better if you could buy me a cup of coffee on the donation page!
-
-#### 7. Music Recommendation
-
-The soothing music I enjoy includes Buddhist Zen music, traditional music from China, India, and Japan, and New Age music, such as Secret Garden albums 1-3.
+Welcome to provide feedback or report bugs: <hello@qmcntech.com>. 

@@ -1,33 +1,31 @@
 ---
 layout: post
 title:  "Privacy Policy"
-date:   2025-01-03 23:26:43 +0800
+date:   2025-09-12 23:28:00 +0800
 categories: jekyll update
 ---
 
 ## Privacy Policy
 
-Thank you for using Lotus Player Lite! We are committed to protecting your privacy. This policy explains how our app handles your information.
+### Our Commitment
 
-### What We Do
+Thank you for using Lotus Player Lite! We are committed to protecting your privacy and providing you with a pure local music experience.
 
-**Lotus Player Lite is a local music player that:**
-- Only reads music files from your device's media library
-- Operates entirely offline (except for App Store in-app purchase functionality)
-- Contains no advertisements
-- Does not collect, store, or share any personal information
+### App Features
+
+**Lotus Player Lite is a local music player:**
+- **Completely Offline**: Works without internet connection, except for in-app purchases
+- **Local Music Only**: Only accesses music files on your device
+- **Zero Data Collection**: Does not collect, store, or share any personal information
+- **Ad-Free Experience**: Enjoy pure music moments
 
 ### Permissions
 
-We only request permission to read your device's media library so you can access and play your music files. This is the sole permission required for the app to function.
+This app only requests permission to access your device's media library, which is necessary for music playback.
 
-### Network Connectivity
+### Network Connection
 
-This app does not connect to the internet, with the only exception being the App Store's in-app purchase library, which is provided by the platform and not controlled by our app.
-
-### Data Collection
-
-We do not collect, store, transmit, or share any personal data, usage statistics, or any other information about you or your device.
+This app does not connect to the internet, with the only exception being the in-app purchase functionality provided by the app store, which is controlled by the platform.
 
 ### Contact Us
 

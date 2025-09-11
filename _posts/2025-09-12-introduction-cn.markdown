@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction 中文版"
-date:   2025-01-03 23:28:43 +0800
+date:   2025-09-12 23:29:00 +0800
 categories: jekyll update
 ---
 
@@ -29,6 +29,6 @@ categories: jekyll update
 
 这个 app 支持 Android 及 iOS 两个平台。
 
-#### 6. 反馈与捐助
+#### 6. 反馈
 
 欢迎提供反馈或报告bug: <hello@qmcntech.com>。
