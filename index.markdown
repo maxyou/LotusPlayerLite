@@ -13,11 +13,11 @@ This is a music player app that can gradually reduce the volume, making it perfe
 
 <div class="gallery">
   <img src="{{ site.baseurl }}/assets/images/Playing.PNG" alt="Playing">
-  <img src="{{ site.baseurl }}/assets/images/PlayingTimer" alt="Timer & Volume">
+  <img src="{{ site.baseurl }}/assets/images/PlayingTimer.PNG" alt="Timer & Volume">
   <img src="{{ site.baseurl }}/assets/images/Folder.PNG" alt="Folder">
   <img src="{{ site.baseurl }}/assets/images/FolderOp.PNG" alt="Folder operation">
   <img src="{{ site.baseurl }}/assets/images/Playlist.PNG" alt="Playlist">
-  <img src="{{ site.baseurl }}/assets/images/PlaylistOp" alt="Playlist operation">
+  <img src="{{ site.baseurl }}/assets/images/PlaylistOp.PNG" alt="Playlist operation">
 </div>
 
 <style>
