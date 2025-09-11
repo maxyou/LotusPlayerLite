@@ -16,8 +16,9 @@ Thank you for using our app! We value your privacy. Below is our privacy policy,
 
 ### Information Use
 
-- We do not connect to the internet, so we do not collect, store, or share any user data.
+- This app does not collect, store, or share any user data. 
 - This app contains no advertisements.
+- This app does not connect to the internet, except for the App Store library for in-app purchases.
 
 ### Third-Party Services
 

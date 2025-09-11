@@ -7,7 +7,7 @@ layout: home
 
 ## What's Lotus Player Lite?
 
-This is a music player app that can gradually reduce the volume, suitable for listening to music while falling asleep. Folder tree view, no Internet connection.
+This is a music player app that can gradually reduce the volume, making it perfect for listening to music while falling asleep. Features a folder tree view and requires no internet connection.
 
 ## Gallery
 
@@ -29,7 +29,7 @@ This is a music player app that can gradually reduce the volume, suitable for li
 
 .gallery img {
   margin: 10px;
-  width: 200px; /* 可以根据需要调整大小 */
+  width: 200px; /* You can adjust the size as needed */
   height: auto;
   border: 2px solid #ccc;
   border-radius: 5px;
