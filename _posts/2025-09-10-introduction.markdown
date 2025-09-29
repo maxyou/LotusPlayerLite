@@ -11,7 +11,7 @@ This is a music player app with three key features: gradual volume reduction, tr
 
 #### 1. Timer and Gradual Volume Reduction
 
-Sometimes I enjoy listening to music as I fall asleep because music helps me relax. I've found that the volume should gradually decrease over time, as loud music can be irritating and uncomfortable when I'm about to fall asleep. I couldn't find any music player in the market that can gradually reduce volume, so I developed one myself. This app allows the volume to decrease in sync with the remaining timer duration until it completely stops.
+Sometimes I like to listen to music before falling asleep because it relaxes me. I've discovered that it's best to gradually lower the volume over time; high volume near the end of sleep makes me irritable and uncomfortable. I've further learned that a gradual decrease in volume can help us calm down and fall asleep. However, I couldn't find a music app that could gradually reduce the volume, so I developed one myself. This app allows the volume to decrease in sync with the remaining time on the timer until it stops completely.
 
 #### 2. Music File Directory Tree
 
