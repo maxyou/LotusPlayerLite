@@ -11,15 +11,15 @@ This is a music player app with three key features: gradual volume reduction, tr
 
 #### 1. Timer and Gradual Volume Reduction
 
-Sometimes I like to listen to music before falling asleep because it relaxes me. I've discovered that it's best to gradually lower the volume over time; high volume near the end of sleep makes me irritable and uncomfortable. I've further learned that a gradual decrease in volume can help us calm down and fall asleep. However, I couldn't find a music app that could gradually reduce the volume, so I developed one myself. This app allows the volume to decrease in sync with the remaining time on the timer until it stops completely.
+Sometimes I enjoy listening to music as I fall asleep because it helps me relax. I found that a gradual volume fade helps ease the listener into silence and sleep. Since I couldn't find a player that supports gradual fading, I built one. The app lets you set a timer so the volume decreases in proportion to the remaining time until playback stops.
 
 #### 2. Music File Directory Tree
 
-I organize my music on my computer using a directory tree structure. For example, I categorize music into "Pop Music" and "Instrumental/Pure Music," with "Pop Music" further divided into "Chinese Music" and "International Music." Within the "Chinese Music" folder, there are multiple subdirectories like "Classic Songs," "Movie Songs," and "Guitar & Vocals." I think this is a clear classification system, so our app stores music following this directory tree structure.
+I organize my music on a computer using a directory tree: first by language, then by style, and finally by artist. This provides a clear classification. The app mirrors that directory structure for browsing and management, and playlists include the file path so you can see a track's category at a glance.
 
 #### 3. Playlist Copying
 
-If you want to immerse yourself in music all night long, or you need to arrange background music for an afternoon at the office, or you're a DJ for a dance event, then you need to easily organize multiple playlists. This app allows "copy + paste" operations from the music file directory tree to playlists, as well as "copy + paste" operations between playlists, which is very convenient.
+Whether you want background music for an afternoon at the office or you're preparing a playlist for an event, you need an easy way to organize playlists. The app supports "copy + paste" operations from the directory tree to playlists and between playlists, making playlist management fast and convenient.
 
 #### 4. Privacy and Permissions
 
@@ -27,7 +27,7 @@ This app does not collect personal information and contains no advertisements. E
 
 #### 5. Platform Support
 
-This app supports both Android and iOS platforms.
+This app supports both Android and iOS platforms. Search for "LotusPlayerLite" in your app store.
 
 #### 6. Feedback
 
