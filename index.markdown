@@ -12,13 +12,14 @@ This is a music player app with three key features: gradual volume reduction, tr
 ## Gallery
 
 <div class="gallery">
-  <img src="{{ site.baseurl }}/assets/images/Playing.PNG" alt="Playing">
+  <img src="{{ site.baseurl }}/assets/images/combined_result.jpg" alt="CombinedAll">
+  <!-- <img src="{{ site.baseurl }}/assets/images/Playing.PNG" alt="Playing">
   <img src="{{ site.baseurl }}/assets/images/PlayingTimer.PNG" alt="Timer & Volume">
   <img src="{{ site.baseurl }}/assets/images/Folder.PNG" alt="Folder">
   <img src="{{ site.baseurl }}/assets/images/FolderOp.PNG" alt="Folder operation">
-  <img src="{{ site.baseurl }}/assets/images/PlaylistOp.PNG" alt="Playlist operation">
-  <img src="{{ site.baseurl }}/assets/images/WeightFolder.jpg" alt="Weight folder playlist">
   <img src="{{ site.baseurl }}/assets/images/Playlist.PNG" alt="Playlist">
+  <img src="{{ site.baseurl }}/assets/images/PlaylistOp.PNG" alt="Playlist operation">
+  <img src="{{ site.baseurl }}/assets/images/WeightFolder.jpg" alt="Weight folder playlist"> -->
 </div>
 
 <style>
