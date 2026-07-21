@@ -12,7 +12,9 @@ This is a music player app with three key features: gradual volume reduction, tr
 ## Gallery
 
 <div class="gallery">
-  <img src="{{ site.baseurl }}/assets/images/combined_result.jpg" alt="CombinedAll">
+  <a href="{{ site.baseurl }}/assets/images/combined_result.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/assets/images/combined_result.jpg" alt="CombinedAll">
+  </a>
   <!-- <img src="{{ site.baseurl }}/assets/images/Playing.PNG" alt="Playing">
   <img src="{{ site.baseurl }}/assets/images/PlayingTimer.PNG" alt="Timer & Volume">
   <img src="{{ site.baseurl }}/assets/images/Folder.PNG" alt="Folder">
@@ -35,5 +37,9 @@ This is a music player app with three key features: gradual volume reduction, tr
   height: auto;
   border: 2px solid #ccc;
   border-radius: 5px;
+}
+
+.gallery a {
+  display: inline-block;
 }
 </style>
