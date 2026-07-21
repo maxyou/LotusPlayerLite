@@ -31,7 +31,7 @@ This is a music player app with three key features: gradual volume reduction, tr
 
 .gallery img {
   margin: 10px;
-  width: 200px; /* You can adjust the size as needed */
+  width: min(100%, 960px);
   height: auto;
   border: 2px solid #ccc;
   border-radius: 5px;
